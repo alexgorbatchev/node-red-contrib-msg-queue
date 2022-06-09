@@ -1,4 +1,8 @@
-# node-red-contrib-msg-queue
+# node-red-contrib-msg-queue-fork
+
+⚠ This fork contains fixes necessary to have this module work in Node-Red 2.x
+
+----
 
 A contributed Node-RED node, that queues undeliverable messages to file for later delivery.
 
