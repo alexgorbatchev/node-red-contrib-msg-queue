@@ -1,6 +1,6 @@
 {
-  "name": "node-red-contrib-msg-queue",
-  "version": "1.0.2",
+  "name": "node-red-contrib-msg-queue-fork",
+  "version": "1.0.3",
   "description": "A contributed Node-RED node, that queues undeliverable messages to file for later delivery.",
   "keywords": [
     "node-red",
@@ -21,9 +21,9 @@
     "node-persistent-queue": "^1.0.3",
     "shallowequal": "^1.0.1"
   },
-  "repository": "https://github.com/damoclark/node-red-contrib-msg-queue",
-  "bugs": "https://github.com/damoclark/node-red-contrib-msg-queue/issues",
-  "homepage": "https://github.com/damoclark/node-red-contrib-msg-queue",
+  "repository": "https://github.com/alexgorbatchev/node-red-contrib-msg-queue-fork",
+  "bugs": "https://github.com/alexgorbatchev/node-red-contrib-msg-queue-fork/issues",
+  "homepage": "https://github.com/alexgorbatchev/node-red-contrib-msg-queue-fork",
   "engines": {
     "node": ">=6.0.0"
   },
